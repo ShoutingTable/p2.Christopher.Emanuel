@@ -1,6 +1,6 @@
 let slider;
 let capture;
-let fontStyle;
+let clockFont;
 let temperature = 0;
 let weather = "";
 // let news = "";
@@ -20,7 +20,7 @@ function preload(){
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  fontStyle = loadFont("digital-7.ttf");
+  clockFont = loadFont("digital-7.ttf");
   
   // brightness slider
   colorMode(HSB);
@@ -66,8 +66,8 @@ function draw() {
 
 // clock function
 function clock() {
-  fill("purple");
-  textFont(fontStyle);
+  fill("black");
+  textFont(clockFont);
   textAlign(CENTER, CENTER);
   textSize(width/4.25);
   let Hour = hour();
