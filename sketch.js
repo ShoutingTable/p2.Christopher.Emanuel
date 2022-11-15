@@ -67,9 +67,9 @@ function draw() {
     textSize(15);
     text(ntemp, 1510, 145, 200);
     textSize(25);
-    text("•", 1500, 291)
+    text("•", 1500, 271)
     textSize(15);
-    text(ntemp2, 1510, 275, 200);
+    text(ntemp2, 1510, 255, 200);
     textSize(25);
     text("•", 1500, 400)
     textSize(15);
