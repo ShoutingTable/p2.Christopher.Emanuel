@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aria Alamalhodaei",
+    "title": "Third time’s a charm? NASA will attempt to launch its mega moon rocket early tomorrow morning",
+    "description": "NASA will attempt to launch the Artemis I mission for the third time on November 16, which could kickstart the Artemis exploration program.",
+    "url": "https://techcrunch.com/2022/11/15/third-times-a-charm-nasa-will-attempt-to-launch-its-mega-moon-rocket-early-tomorrow-morning/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1239279887.jpg?resize=1200,800",
+    "publishedAt": "2022-11-15T21:36:13Z",
+    "content": "NASA is set to launch the Artemis I mission on November 16, with agency officials saying they were prepared to accept the risks from minor damage the launch system incurred from Hurricane Nicole last… [+3083 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Ring launches pilot program to let local agencies share updates and 'safety information'",
+    "description": "Ring has launched a pilot program to allow local government agencies in the U.S. to share safety information through the Neighbors app.",
+    "url": "https://techcrunch.com/2022/11/15/ring-launches-pilot-program-to-let-local-agencies-share-updates-and-safety-information/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Screenshot-38.png?resize=1200,579",
+    "publishedAt": "2022-11-15T21:14:00Z",
+    "content": "Ring today announced that local government agencies will be able to have an official presence on the company’s Neighbors app.\r\nBeginning with the City of North Port and Pinellas County Government in … [+1793 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "Unit's banking-as-a-service platform is getting into the charge card game",
+    "description": "Unit, valued at a unicorn last year, is launching its fourth and final product pillar: charge cards. CEO Itai Damti explains the move.",
+    "url": "https://techcrunch.com/2022/11/15/units-banking-as-a-service-platform-is-getting-into-the-charge-card-game/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-sb10069275i-003.jpg?resize=1200,972",
+    "publishedAt": "2022-11-15T20:16:34Z",
+    "content": "If the banking-as-a-service fintech Unit does its job right, it will be ubiquitous among businesses and simultaneously have a name unknown to the end user. The company gives companies a way to embed … [+3058 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Szkutak",
+    "title": "Global venture funding plateaued in October, with valuations likely to blame",
+    "description": "September made it seem like venture capital deal activity was starting to ramp up again, but October's numbers showed there is still a long way to go.",
+    "url": "https://techcrunch.com/2022/11/15/global-venture-funding-plateaued-in-october-with-valuations-likely-to-blame/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1291550681.jpg?resize=1200,800",
+    "publishedAt": "2022-11-15T20:07:14Z",
+    "content": "After a particularly slow summer, the mood in venture capital seemed to change with the season come Labor Day. By the end of September, it felt that maybe the worst had already come in terms of this … [+338 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Frederic Lardinois",
+    "title": "LF Europe's Project Sylva wants to create an open source telco cloud stack",
+    "description": "The Linux Foundation Europe today launched Project Sylva, a project that aims to build an open-source telco cloud stack for Europe.",
+    "url": "https://techcrunch.com/2022/11/15/lf-europes-project-sylva-wants-to-create-an-open-source-telco-cloud-stack/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1277761009.jpg?resize=1200,900",
+    "publishedAt": "2022-11-15T18:24:50Z",
+    "content": "The Linux Foundation Europe (LF Europe) — the recently launched European offshoot of the open source Linux Foundation — today announced the launch of Project Sylva, which aims to create an open sourc… [+3136 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson",
+    "title": "TechCrunch+ roundup: Bootstrapping basics, fintech’s future, tech employers gain advantage",
+    "description": "Bootstrapped founders face longer odds, but if they can drive growth and reach product-market fit, \"fundraising will be that much easier.\"",
+    "url": "https://techcrunch.com/2022/11/15/techcrunch-roundup-bootstrapping-basics-fintechs-future-tech-employers-gain-advantage/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1440304160.jpg?resize=1200,800",
+    "publishedAt": "2022-11-15T18:10:54Z",
+    "content": "Are you planning to play League of Legends during your next investor pitch? (If so, reading this probably isnt a good use of your time.)\r\nFor founders who are interested in building on their own, mai… [+4042 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aisha Malik",
+    "title": "YouTube Shorts begins testing shopping features and affiliate marketing",
+    "description": "YouTube is adding shopping features to Shorts, its TikTok-like short-form video product, the company confirmed to TechCrunch on Tuesday.",
+    "url": "https://techcrunch.com/2022/11/15/youtube-shorts-testing-shopping-features-affiliate-marketing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?resize=1200,674",
+    "publishedAt": "2022-11-15T18:10:46Z",
+    "content": "YouTube is adding shopping features to Shorts, its TikTok-like short-form video product, the company confirmed to TechCrunch on Tuesday. The new shopping features allow users to purchase products as … [+2762 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "YouTube Shorts can now include 60 seconds of music or sounds, up from 15 seconds before",
+    "description": "YouTube today is addressing one of creators’ chief complaints with filming videos for its TikTok competitor, YouTube Shorts: to date, the music and sounds added to videos could only be 15 seconds in length, even though Shorts themselves can be as long as 60 s…",
+    "url": "https://techcrunch.com/2022/11/15/youtube-shorts-can-now-include-60-seconds-of-music-or-sounds-up-from-15-seconds-before/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Longer-Sounds-on-Shorts.png?resize=1200,641",
+    "publishedAt": "2022-11-15T17:53:16Z",
+    "content": "YouTube today is addressing one of creators’ chief complaints with filming videos for its TikTok competitor, YouTube Shorts: to date, the music and sounds added to videos could only be 15 seconds in … [+3181 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Forristal",
+    "title": "Netflix's new feature lets subscribers kick devices off their accounts",
+    "description": "Netflix’s new “Manage Access and Devices” feature lets account owners log out of devices they don’t recognize or no longer want signed in.",
+    "url": "https://techcrunch.com/2022/11/15/netflix-new-manage-access-and-devices-feature/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/1.png?resize=1200,674",
+    "publishedAt": "2022-11-15T16:01:58Z",
+    "content": "Want to kick your ex off your Netflix account without having to change your password? A new Netflix feature will make that possible. Today, Netflix is launching Manage Access and Devices,” which allo… [+2532 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "AI-powered media editing app Descript lands fresh cash from OpenAI",
+    "description": "Descript, the AI-powered media editing startup founded by Andrew Mason, has raised new cash in a funding round led by OpenAI's startup fund.",
+    "url": "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/07/andrew-mason.jpg",
+    "publishedAt": "2022-11-11T19:43:29Z",
+    "content": "Descript, the audio and video editing platform founded in 2017 by former Groupon CEO Andrew Mason, has raised $50 million in a Series C round led by the OpenAI Startup Fund, a tranche through which O… [+5768 chars]"
+    }
+    ]
+    }

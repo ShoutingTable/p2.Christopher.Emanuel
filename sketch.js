@@ -11,8 +11,8 @@ let json, json1;
 function preload() {
     let lbk_weather = "https://api.openweathermap.org/data/2.5/weather?q=Lubbock&units=imperial&APPID=e812164ca05ed9e0344b89ebe273c141";
     json = loadJSON(lbk_weather);
-    news = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=8e0a009a317842ba9a9c1b00ab486cc2";
-    json1 = loadJSON(news, globalNews);
+    // news = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=8e0a009a317842ba9a9c1b00ab486cc2";
+    json1 = loadJSON("news.json", globalNews);
 }
 
 function setup() {
