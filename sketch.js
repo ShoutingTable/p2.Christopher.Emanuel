@@ -67,9 +67,13 @@ function draw() {
     textSize(15);
     text(ntemp, 1510, 145, 200);
     textSize(25);
-    text("•", 1500, 342)
+    text("•", 1500, 291)
     textSize(15);
-    text(ntemp2, 1510, 325, 200);
+    text(ntemp2, 1510, 275, 200);
+    textSize(25);
+    text("•", 1500, 400)
+    textSize(15);
+    text(ntemp3, 1510, 385, 200);
 
     // calendar
     let m = month();
@@ -87,7 +91,12 @@ function draw() {
     text("• Cook Dinner - 5 PM", 35, 460);
     text("• Do homework - 7 PM", 35, 540);
 
-
+    // sleep, weight, excersize, mirror time
+    textSize(40);
+    text("Sleep Time: " + "7hrs", 1420, 820);
+    text("Current Weight: " + "190lbs", 1420, 860);
+    text("Excersize: " + "sometimes", 1420, 900);
+    text("Mirror time: " + "Too much", 1420, 940);
 }
 
 
@@ -110,5 +119,6 @@ function clock() {
 function globalNews() {
     ntemp = json1.articles[0].description;
     ntemp2 = json1.articles[1].description;
+    ntemp3 = json1.articles[2].description;
 
 }
