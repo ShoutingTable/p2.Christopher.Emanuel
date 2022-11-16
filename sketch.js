@@ -22,7 +22,7 @@ function setup() {
     // brightness slider
     colorMode(HSB);
     slider = createSlider(0, 360, 60, 40)
-    slider.position(598, 1050)
+    slider.position(598, 1410)
     slider.style('width', '800px')
 
     // webcam capture
